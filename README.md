@@ -1,4 +1,7 @@
-<p>A simple text generator using Markov chains.</p><br/>
+<p>A text generator using Markov chains.</p><br/>
+
+> Input: filename.txt
+> Output: 10 generated pseudo-sentences<br/><br/>
 
 > corpus.txt<br/>
 > I sent men over the Wall every night.<br/>

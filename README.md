@@ -1,6 +1,6 @@
 <p>A text generator using Markov chains.</p><br/>
 
-> Input: filename.txt
+> Input: filename.txt<br/>
 > Output: 10 generated pseudo-sentences<br/><br/>
 
 > corpus.txt<br/>
